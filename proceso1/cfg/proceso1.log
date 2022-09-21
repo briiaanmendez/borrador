@@ -1,0 +1,1091 @@
+[INFO] 02:40:35:388 PROCESO1/(9118:9118): Soy el proceso 1! Hice uso de la shared!
+[INFO] 02:41:51:512 PROCESO1/(9291:9291): Soy el proceso 1! Hice uso de la shared!
+[INFO] 02:42:35:603 PROCESO1/(9384:9384): Soy el proceso 1! Hice uso de la shared!
+[INFO] 05:14:08:959 PROCESO1/(27885:27885): Soy el proceso 1! Hice uso de la shared!
+[INFO] 05:29:28:196 PROCESO1/(29733:29733): Soy el proceso 1! Hice uso de la shared!
+[INFO] 05:30:41:660 PROCESO1/(29903:29903): Soy el proceso 1! Hice uso de la shared!
+[INFO] 05:31:15:666 PROCESO1/(30003:30003): Soy el proceso 1! Hice uso de la shared!
+[INFO] 05:32:09:995 PROCESO1/(30129:30129): Soy el proceso 1! Hice uso de la shared!
+[INFO] 05:49:23:398 PROCESO1/(32689:32689): Soy el proceso 1! Hice uso de la shared!
+[INFO] 05:52:31:743 PROCESO1/(461:461): Soy el proceso 1! Hice uso de la shared!
+[INFO] 06:02:58:787 PROCESO1/(2021:2021): Soy el proceso 1! Hice uso de la shared!
+[INFO] 06:10:39:239 PROCESO1/(3131:3131): Soy el proceso 1! Hice uso de la shared!
+[INFO] 06:10:51:061 PROCESO1/(3174:3174): Soy el proceso 1! Hice uso de la shared!
+[INFO] 06:11:18:557 PROCESO1/(3273:3273): Soy el proceso 1! Hice uso de la shared!
+[INFO] 06:11:36:892 PROCESO1/(3336:3336): Soy el proceso 1! Hice uso de la shared!
+[INFO] 06:31:18:895 PROCESO1/(3451:3451): Soy el proceso 1! Hice uso de la shared!
+[INFO] 06:31:56:634 PROCESO1/(6123:6123): Soy el proceso 1! Hice uso de la shared!
+[INFO] 19:05:27:124 PROCESO1/(4236:4236): Soy el proceso 1! Hice uso de la shared!
+[INFO] 04:01:34:498 PROCESO1/(14974:14974): Hola! Soy un log
+
+[INFO] 04:01:34:512 PROCESO1/(14974:14974): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 04:10:45:970 PROCESO1/(15921:15921): Hola! Soy un log
+
+[INFO] 04:10:45:974 PROCESO1/(15921:15921): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 04:16:38:343 PROCESO1/(16503:16503): Hola! Soy un log
+
+[INFO] 04:16:38:349 PROCESO1/(16503:16503): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 04:18:49:197 PROCESO1/(16764:16764): Hola! Soy un log
+
+[INFO] 04:18:49:202 PROCESO1/(16764:16764): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 05:42:34:823 PROCESO1/(25861:25861): Hola! Soy un log
+
+[INFO] 05:42:34:827 PROCESO1/(25861:25861): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 06:03:31:411 PROCESO1/(28285:28285): Hola! Soy un log
+
+[INFO] 06:03:31:412 PROCESO1/(28285:28285): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 06:04:01:935 PROCESO1/(28365:28365): Hola! Soy un log
+
+[INFO] 06:04:01:941 PROCESO1/(28365:28365): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 06:20:13:393 PROCESO1/(30308:30308): Hola! Soy un log
+
+[INFO] 06:20:13:394 PROCESO1/(30308:30308): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 06:21:40:833 PROCESO1/(30522:30522): Hola! Soy un log
+
+[INFO] 06:21:40:841 PROCESO1/(30522:30522): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 06:27:50:546 PROCESO1/(31251:31251): Hola! Soy un log
+
+[INFO] 06:27:50:547 PROCESO1/(31251:31251): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 06:28:44:119 PROCESO1/(31387:31387): Hola! Soy un log
+
+[INFO] 06:28:44:120 PROCESO1/(31387:31387): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 05:39:15:499 PROCESO1/(8214:8214): Hola! Soy un log
+
+[INFO] 05:41:50:216 PROCESO1/(8495:8495): Hola! Soy un log
+
+[INFO] 05:41:50:217 PROCESO1/(8495:8495): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 05:42:43:234 PROCESO1/(8640:8640): Hola! Soy un log
+
+[INFO] 05:42:43:235 PROCESO1/(8640:8640): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 05:45:34:108 PROCESO1/(9110:9110): Hola! Soy un log
+
+[INFO] 05:45:34:110 PROCESO1/(9110:9110): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 05:49:28:080 PROCESO1/(9508:9508): Hola! Soy un log
+
+[INFO] 05:49:28:080 PROCESO1/(9508:9508): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 05:49:56:822 PROCESO1/(9599:9599): Hola! Soy un log
+
+[INFO] 05:49:56:823 PROCESO1/(9599:9599): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 05:54:17:912 PROCESO1/(10065:10065): Hola! Soy un log
+
+[INFO] 05:54:17:913 PROCESO1/(10065:10065): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 05:55:58:540 PROCESO1/(10276:10276): Hola! Soy un log
+
+[INFO] 05:55:58:541 PROCESO1/(10276:10276): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 06:00:25:750 PROCESO1/(10748:10748): Hola! Soy un log
+
+[INFO] 06:00:25:751 PROCESO1/(10748:10748): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 06:07:03:094 PROCESO1/(11447:11447): Hola! Soy un log
+
+[INFO] 06:07:03:095 PROCESO1/(11447:11447): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 06:09:49:309 PROCESO1/(11838:11838): Hola! Soy un log
+
+[INFO] 06:09:49:310 PROCESO1/(11838:11838): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 06:12:08:078 PROCESO1/(11998:11998): Hola! Soy un log
+
+[INFO] 06:12:08:079 PROCESO1/(11998:11998): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 06:28:53:583 PROCESO1/(13028:13028): Hola! Soy un log
+
+[INFO] 06:28:53:590 PROCESO1/(13028:13028): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 06:33:14:612 PROCESO1/(13337:13337): Hola! Soy un log
+
+[INFO] 06:33:14:613 PROCESO1/(13337:13337): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 06:36:33:512 PROCESO1/(13556:13556): Hola! Soy un log
+
+[INFO] 06:36:33:512 PROCESO1/(13556:13556): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 06:37:02:681 PROCESO1/(13619:13619): Hola! Soy un log
+
+[INFO] 06:37:02:682 PROCESO1/(13619:13619): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 06:40:12:884 PROCESO1/(13818:13818): Hola! Soy un log
+
+[INFO] 06:40:12:885 PROCESO1/(13818:13818): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 06:42:09:142 PROCESO1/(13974:13974): Hola! Soy un log
+
+[INFO] 06:42:09:146 PROCESO1/(13974:13974): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 06:46:02:744 PROCESO1/(14207:14207): Hola! Soy un log
+
+[INFO] 06:46:02:745 PROCESO1/(14207:14207): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 06:47:19:498 PROCESO1/(14330:14330): Hola! Soy un log
+
+[INFO] 06:47:19:506 PROCESO1/(14330:14330): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 06:51:15:298 PROCESO1/(14572:14572): Hola! Soy un log
+
+[INFO] 06:51:15:299 PROCESO1/(14572:14572): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 06:52:21:911 PROCESO1/(14710:14710): Hola! Soy un log
+
+[INFO] 06:52:21:912 PROCESO1/(14710:14710): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 06:53:13:462 PROCESO1/(14778:14778): Hola! Soy un log
+
+[INFO] 06:53:13:463 PROCESO1/(14778:14778): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 06:55:23:272 PROCESO1/(14920:14920): Hola! Soy un log
+
+[INFO] 06:55:23:272 PROCESO1/(14920:14920): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 06:56:04:420 PROCESO1/(14993:14993): Hola! Soy un log
+
+[INFO] 06:56:04:424 PROCESO1/(14993:14993): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 06:56:32:812 PROCESO1/(15055:15055): Hola! Soy un log
+
+[INFO] 06:56:32:813 PROCESO1/(15055:15055): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 06:57:59:691 PROCESO1/(15153:15153): Hola! Soy un log
+
+[INFO] 06:57:59:691 PROCESO1/(15153:15153): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 06:58:23:989 PROCESO1/(15200:15200): Hola! Soy un log
+
+[INFO] 06:58:23:990 PROCESO1/(15200:15200): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 06:59:38:209 PROCESO1/(15282:15282): Hola! Soy un log
+
+[INFO] 06:59:38:210 PROCESO1/(15282:15282): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:00:02:498 PROCESO1/(15342:15342): Hola! Soy un log
+
+[INFO] 07:00:02:499 PROCESO1/(15342:15342): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:01:50:926 PROCESO1/(15460:15460): Hola! Soy un log
+
+[INFO] 07:01:50:932 PROCESO1/(15460:15460): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:02:43:255 PROCESO1/(15535:15535): Hola! Soy un log
+
+[INFO] 07:02:43:256 PROCESO1/(15535:15535): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:03:23:393 PROCESO1/(15601:15601): Hola! Soy un log
+
+[INFO] 07:03:23:394 PROCESO1/(15601:15601): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:05:06:898 PROCESO1/(15726:15726): Hola! Soy un log
+
+[INFO] 07:05:06:899 PROCESO1/(15726:15726): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:05:49:353 PROCESO1/(15801:15801): Hola! Soy un log
+
+[INFO] 07:05:49:354 PROCESO1/(15801:15801): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:10:10:139 PROCESO1/(16037:16037): Hola! Soy un log
+
+[INFO] 07:10:10:140 PROCESO1/(16037:16037): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:10:50:585 PROCESO1/(16100:16100): Hola! Soy un log
+
+[INFO] 07:10:50:586 PROCESO1/(16100:16100): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:15:23:320 PROCESO1/(16335:16335): Hola! Soy un log
+
+[INFO] 07:15:23:321 PROCESO1/(16335:16335): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:16:15:949 PROCESO1/(16408:16408): Hola! Soy un log
+
+[INFO] 07:16:15:953 PROCESO1/(16408:16408): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:17:07:988 PROCESO1/(16479:16479): Hola! Soy un log
+
+[INFO] 07:17:07:988 PROCESO1/(16479:16479): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:18:52:673 PROCESO1/(16585:16585): Hola! Soy un log
+
+[INFO] 07:18:52:674 PROCESO1/(16585:16585): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:20:33:585 PROCESO1/(16677:16677): Hola! Soy un log
+
+[INFO] 07:20:33:593 PROCESO1/(16677:16677): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:20:52:639 PROCESO1/(16723:16723): Hola! Soy un log
+
+[INFO] 07:20:52:640 PROCESO1/(16723:16723): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:22:57:122 PROCESO1/(16839:16839): Hola! Soy un log
+
+[INFO] 07:22:57:123 PROCESO1/(16839:16839): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:23:10:061 PROCESO1/(16875:16875): Hola! Soy un log
+
+[INFO] 07:23:10:062 PROCESO1/(16875:16875): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:23:19:638 PROCESO1/(16912:16912): Hola! Soy un log
+
+[INFO] 07:23:19:639 PROCESO1/(16912:16912): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:24:38:300 PROCESO1/(17009:17009): Hola! Soy un log
+
+[INFO] 07:24:38:301 PROCESO1/(17009:17009): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:25:59:318 PROCESO1/(17095:17095): Hola! Soy un log
+
+[INFO] 07:25:59:319 PROCESO1/(17095:17095): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:26:14:296 PROCESO1/(17140:17140): Hola! Soy un log
+
+[INFO] 07:26:14:297 PROCESO1/(17140:17140): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:26:55:384 PROCESO1/(17197:17197): Hola! Soy un log
+
+[INFO] 07:26:55:385 PROCESO1/(17197:17197): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:27:13:201 PROCESO1/(17245:17245): Hola! Soy un log
+
+[INFO] 07:27:13:202 PROCESO1/(17245:17245): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:29:02:066 PROCESO1/(17378:17378): Hola! Soy un log
+
+[INFO] 07:29:02:069 PROCESO1/(17378:17378): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:29:44:079 PROCESO1/(17441:17441): Hola! Soy un log
+
+[INFO] 07:29:44:080 PROCESO1/(17441:17441): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:32:51:438 PROCESO1/(17639:17639): Hola! Soy un log
+
+[INFO] 07:32:51:439 PROCESO1/(17639:17639): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:33:22:901 PROCESO1/(17688:17688): Hola! Soy un log
+
+[INFO] 07:33:22:902 PROCESO1/(17688:17688): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:33:53:386 PROCESO1/(17743:17743): Hola! Soy un log
+
+[INFO] 07:33:53:387 PROCESO1/(17743:17743): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:34:06:407 PROCESO1/(17781:17781): Hola! Soy un log
+
+[INFO] 07:34:06:408 PROCESO1/(17781:17781): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:35:03:269 PROCESO1/(17857:17857): Hola! Soy un log
+
+[INFO] 07:35:03:270 PROCESO1/(17857:17857): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:37:00:857 PROCESO1/(17982:17982): Hola! Soy un log
+
+[INFO] 07:37:00:858 PROCESO1/(17982:17982): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:37:17:671 PROCESO1/(18019:18019): Hola! Soy un log
+
+[INFO] 07:37:17:675 PROCESO1/(18019:18019): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:39:25:299 PROCESO1/(18138:18138): Hola! Soy un log
+
+[INFO] 07:39:25:300 PROCESO1/(18138:18138): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:41:56:972 PROCESO1/(18275:18275): Hola! Soy un log
+
+[INFO] 07:41:56:973 PROCESO1/(18275:18275): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:42:16:677 PROCESO1/(18312:18312): Hola! Soy un log
+
+[INFO] 07:42:16:677 PROCESO1/(18312:18312): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:42:36:865 PROCESO1/(18349:18349): Hola! Soy un log
+
+[INFO] 07:42:36:868 PROCESO1/(18349:18349): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:42:53:075 PROCESO1/(18386:18386): Hola! Soy un log
+
+[INFO] 07:42:53:075 PROCESO1/(18386:18386): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:44:38:285 PROCESO1/(18481:18481): Hola! Soy un log
+
+[INFO] 07:44:38:286 PROCESO1/(18481:18481): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:44:42:920 PROCESO1/(18509:18509): Hola! Soy un log
+
+[INFO] 07:44:42:924 PROCESO1/(18509:18509): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:45:42:936 PROCESO1/(18578:18578): Hola! Soy un log
+
+[INFO] 07:45:42:937 PROCESO1/(18578:18578): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:48:04:417 PROCESO1/(18707:18707): Hola! Soy un log
+
+[INFO] 07:48:04:421 PROCESO1/(18707:18707): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:48:39:285 PROCESO1/(18758:18758): Hola! Soy un log
+
+[INFO] 07:48:39:286 PROCESO1/(18758:18758): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:49:00:041 PROCESO1/(18797:18797): Hola! Soy un log
+
+[INFO] 07:49:00:041 PROCESO1/(18797:18797): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:49:16:004 PROCESO1/(18836:18836): Hola! Soy un log
+
+[INFO] 07:49:16:006 PROCESO1/(18836:18836): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:49:18:158 PROCESO1/(18862:18862): Hola! Soy un log
+
+[INFO] 07:49:18:163 PROCESO1/(18862:18862): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:49:21:087 PROCESO1/(18885:18885): Hola! Soy un log
+
+[INFO] 07:49:21:092 PROCESO1/(18885:18885): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:50:32:599 PROCESO1/(18964:18964): Hola! Soy un log
+
+[INFO] 07:50:32:600 PROCESO1/(18964:18964): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:51:00:831 PROCESO1/(19030:19030): Hola! Soy un log
+
+[INFO] 07:51:00:838 PROCESO1/(19030:19030): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:53:18:255 PROCESO1/(19187:19187): Hola! Soy un log
+
+[INFO] 07:53:18:256 PROCESO1/(19187:19187): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 07:57:43:086 PROCESO1/(19438:19438): Hola! Soy un log
+
+[INFO] 07:57:43:087 PROCESO1/(19438:19438): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 08:00:58:614 PROCESO1/(19627:19627): Hola! Soy un log
+
+[INFO] 08:00:58:615 PROCESO1/(19627:19627): Los valores de config son:
+ ip=127.0.0.1
+ puerto=4444
+ clave=valor
+
+[INFO] 15:58:54:249 PROCESO1/(7670:7670): Hola! Soy un log
+
+[INFO] 15:58:54:251 PROCESO1/(7670:7670): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ clave=64
+
+[INFO] 16:04:45:458 PROCESO1/(7963:7963): Hola! Soy un log
+
+[INFO] 16:04:45:460 PROCESO1/(7963:7963): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ clave=64
+
+[INFO] 16:05:34:494 PROCESO1/(8057:8057): Hola! Soy un log
+
+[INFO] 16:05:34:496 PROCESO1/(8057:8057): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ clave=64
+
+[INFO] 16:06:14:713 PROCESO1/(8140:8140): Hola! Soy un log
+
+[INFO] 16:06:14:720 PROCESO1/(8140:8140): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:06:36:319 PROCESO1/(8206:8206): Hola! Soy un log
+
+[INFO] 16:06:36:327 PROCESO1/(8206:8206): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:07:38:839 PROCESO1/(8305:8305): Hola! Soy un log
+
+[INFO] 16:07:38:840 PROCESO1/(8305:8305): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:09:09:844 PROCESO1/(8425:8425): Hola! Soy un log
+
+[INFO] 16:09:09:844 PROCESO1/(8425:8425): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:10:20:823 PROCESO1/(8530:8530): Hola! Soy un log
+
+[INFO] 16:10:20:824 PROCESO1/(8530:8530): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:11:34:429 PROCESO1/(8645:8645): Hola! Soy un log
+
+[INFO] 16:11:34:430 PROCESO1/(8645:8645): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:15:30:145 PROCESO1/(8854:8854): Hola! Soy un log
+
+[INFO] 16:15:30:149 PROCESO1/(8854:8854): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:15:57:365 PROCESO1/(8899:8899): Hola! Soy un log
+
+[INFO] 16:15:57:366 PROCESO1/(8899:8899): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:17:05:817 PROCESO1/(9012:9012): Hola! Soy un log
+
+[INFO] 16:17:05:818 PROCESO1/(9012:9012): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:18:46:439 PROCESO1/(9129:9129): Hola! Soy un log
+
+[INFO] 16:18:46:447 PROCESO1/(9129:9129): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:24:05:869 PROCESO1/(9413:9413): Hola! Soy un log
+
+[INFO] 16:24:05:870 PROCESO1/(9413:9413): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:25:16:915 PROCESO1/(9516:9516): Hola! Soy un log
+
+[INFO] 16:25:16:916 PROCESO1/(9516:9516): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:26:02:926 PROCESO1/(9596:9596): Hola! Soy un log
+
+[INFO] 16:26:02:927 PROCESO1/(9596:9596): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:28:12:158 PROCESO1/(9720:9720): Hola! Soy un log
+
+[INFO] 16:28:12:159 PROCESO1/(9720:9720): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:29:34:707 PROCESO1/(9808:9808): Hola! Soy un log
+
+[INFO] 16:29:34:708 PROCESO1/(9808:9808): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:30:30:994 PROCESO1/(9876:9876): Hola! Soy un log
+
+[INFO] 16:30:31:001 PROCESO1/(9876:9876): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:32:17:959 PROCESO1/(10002:10002): Hola! Soy un log
+
+[INFO] 16:32:17:960 PROCESO1/(10002:10002): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:33:24:642 PROCESO1/(10096:10096): Hola! Soy un log
+
+[INFO] 16:33:24:643 PROCESO1/(10096:10096): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:39:32:006 PROCESO1/(10387:10387): Hola! Soy un log
+
+[INFO] 16:39:32:007 PROCESO1/(10387:10387): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:40:00:600 PROCESO1/(10454:10454): Hola! Soy un log
+
+[INFO] 16:40:00:601 PROCESO1/(10454:10454): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:40:04:211 PROCESO1/(10478:10478): Hola! Soy un log
+
+[INFO] 16:40:04:217 PROCESO1/(10478:10478): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:49:42:218 PROCESO1/(10964:10964): Hola! Soy un log
+
+[INFO] 16:49:42:219 PROCESO1/(10964:10964): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:50:11:320 PROCESO1/(11025:11025): Hola! Soy un log
+
+[INFO] 16:50:11:328 PROCESO1/(11025:11025): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:52:41:744 PROCESO1/(11188:11188): Hola! Soy un log
+
+[INFO] 16:52:41:745 PROCESO1/(11188:11188): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:53:42:269 PROCESO1/(11275:11275): Hola! Soy un log
+
+[INFO] 16:53:42:270 PROCESO1/(11275:11275): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:54:22:298 PROCESO1/(11359:11359): Hola! Soy un log
+
+[INFO] 16:54:22:299 PROCESO1/(11359:11359): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:56:21:028 PROCESO1/(11505:11505): Hola! Soy un log
+
+[INFO] 16:56:21:029 PROCESO1/(11505:11505): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:58:07:151 PROCESO1/(11619:11619): Hola! Soy un log
+
+[INFO] 16:58:07:152 PROCESO1/(11619:11619): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:58:25:958 PROCESO1/(11661:11661): Hola! Soy un log
+
+[INFO] 16:58:25:959 PROCESO1/(11661:11661): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 16:58:38:136 PROCESO1/(11710:11710): Hola! Soy un log
+
+[INFO] 16:58:38:140 PROCESO1/(11710:11710): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 17:43:42:333 PROCESO1/(13776:13776): Hola! Soy un log
+
+[INFO] 17:43:42:335 PROCESO1/(13776:13776): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 17:55:29:200 PROCESO1/(14301:14301): Hola! Soy un log
+
+[INFO] 17:55:29:292 PROCESO1/(14301:14301): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 17:56:26:711 PROCESO1/(14391:14391): Hola! Soy un log
+
+[INFO] 17:56:26:716 PROCESO1/(14391:14391): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 18:12:48:256 PROCESO1/(15091:15091): Hola! Soy un log
+
+[INFO] 18:12:48:257 PROCESO1/(15091:15091): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 18:13:07:820 CONSOLA/(15133:15133): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 18:13:12:450 CONSOLA/(15158:15158): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 18:13:54:937 CONSOLA/(15206:15206): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 18:14:15:723 CONSOLA/(15269:15269): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 18:15:57:853 CONSOLA/(15383:15383): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 18:32:09:139 CONSOLA/(16142:16142): Se cargo la informacion del archivo de configuracion
+[INFO] 18:32:09:140 CONSOLA/(16142:16142): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 18:50:20:825 CONSOLA/(16936:16936): Se creo el config.
+[INFO] 18:50:20:826 CONSOLA/(16936:16936): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[ERROR] 18:50:20:832 CONSOLA/(16936:16936): Error:El archivo no se pudo abrir.
+[INFO] 19:02:47:552 CONSOLA/(17479:17479): Se creo el config.
+[INFO] 19:02:47:553 CONSOLA/(17479:17479): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[ERROR] 19:02:47:553 CONSOLA/(17479:17479): Error:El archivo no se pudo abrir.
+[INFO] 19:03:42:465 CONSOLA/(17546:17546): Se creo el config.
+[INFO] 19:03:42:465 CONSOLA/(17546:17546): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[ERROR] 19:03:42:466 CONSOLA/(17546:17546): Error:El archivo no se pudo abrir.
+[INFO] 19:19:35:237 CONSOLA/(18234:18234): Se creo el config.
+[INFO] 19:19:35:237 CONSOLA/(18234:18234): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[ERROR] 19:19:35:238 CONSOLA/(18234:18234): Error:El archivo no se pudo abrir.
+[INFO] 19:23:19:581 CONSOLA/(18432:18432): Se creo la estructura del config.
+[INFO] 19:23:19:582 CONSOLA/(18432:18432): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 19:23:43:596 CONSOLA/(18481:18481): Se creo la estructura del config.
+[INFO] 19:23:43:602 CONSOLA/(18481:18481): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 19:25:37:894 CONSOLA/(18610:18610): Se creo la estructura del config.
+[INFO] 19:25:37:904 CONSOLA/(18610:18610): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 19:36:47:937 CONSOLA/(19122:19122): Se creo la estructura del config.
+[INFO] 19:36:47:937 CONSOLA/(19122:19122): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 19:37:27:439 CONSOLA/(19210:19210): Se creo la estructura del config.
+[INFO] 19:37:27:448 CONSOLA/(19210:19210): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 19:38:11:104 CONSOLA/(19288:19288): Se creo la estructura del config.
+[INFO] 19:38:11:105 CONSOLA/(19288:19288): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 23:12:22:477 CONSOLA/(28332:28332): Se creo la estructura del config.
+[INFO] 23:12:22:492 CONSOLA/(28332:28332): Los valores de config son:
+ ip=192.168.1.1
+ puerto=8000
+ segmento=64
+
+[INFO] 23:12:22:503 CONSOLA/(28332:28332): Se cargo la lista de instrucciones
+[INFO] 23:12:22:503 CONSOLA/(28332:28332): Se cargo la lista de segmentos
+[INFO] 23:19:16:069 CONSOLA/(28669:28669): Se creo la estructura del config.
+[INFO] 23:19:16:069 CONSOLA/(28669:28669): Se cargo la lista de instrucciones.
+[INFO] 23:19:16:069 CONSOLA/(28669:28669): Se cargo la lista de segmentos.
+[INFO] 23:21:21:892 CONSOLA/(28784:28784): Se creo la estructura del config.
+[INFO] 23:21:21:893 CONSOLA/(28784:28784): Se cargo la lista de instrucciones.
+[INFO] 23:21:21:894 CONSOLA/(28784:28784): Se cargo la lista de segmentos.
+[INFO] 23:21:51:336 CONSOLA/(28847:28847): Se creo la estructura del config.
+[INFO] 23:21:51:340 CONSOLA/(28847:28847): Se cargo la lista de instrucciones.
+[INFO] 23:21:51:340 CONSOLA/(28847:28847): Se cargo la lista de segmentos.
+[INFO] 23:27:03:771 CONSOLA/(29109:29109): Se creo la estructura del config.
+[INFO] 23:27:03:771 CONSOLA/(29109:29109): Se cargo la lista de instrucciones.
+[INFO] 23:27:03:771 CONSOLA/(29109:29109): Se cargo la lista de segmentos.
+[INFO] 23:28:05:013 CONSOLA/(29175:29175): Se creo la estructura del config.
+[INFO] 23:28:05:014 CONSOLA/(29175:29175): Se cargo la lista de instrucciones.
+[INFO] 23:28:05:015 CONSOLA/(29175:29175): Se cargo la lista de segmentos.
+[INFO] 23:41:21:953 CONSOLA/(29894:29894): Se creo la estructura del config.
+[INFO] 23:41:21:961 CONSOLA/(29894:29894): Se cargo la lista de instrucciones.
+[INFO] 23:41:21:961 CONSOLA/(29894:29894): Se cargo la lista de segmentos.
+[INFO] 00:22:14:187 CONSOLA/(31793:31793): Se creo la estructura del config.
+[INFO] 00:22:14:187 CONSOLA/(31793:31793): Se cargo la lista de instrucciones.
+[INFO] 00:22:14:188 CONSOLA/(31793:31793): Se cargo la lista de segmentos.
+[INFO] 00:23:04:521 CONSOLA/(31855:31855): Se creo la estructura del config.
+[INFO] 00:23:04:524 CONSOLA/(31855:31855): Se cargo la lista de instrucciones.
+[INFO] 00:23:04:525 CONSOLA/(31855:31855): Se cargo la lista de segmentos.
+[INFO] 00:25:33:846 CONSOLA/(31977:31977): Se creo la estructura del config.
+[INFO] 00:25:33:848 CONSOLA/(31977:31977): Se cargo la lista de instrucciones.
+[INFO] 00:25:33:848 CONSOLA/(31977:31977): Se cargo la lista de segmentos.
+[INFO] 00:25:49:906 CONSOLA/(32012:32012): Se creo la estructura del config.
+[INFO] 00:25:49:906 CONSOLA/(32012:32012): Se cargo la lista de instrucciones.
+[INFO] 00:25:49:907 CONSOLA/(32012:32012): Se cargo la lista de segmentos.
+[INFO] 00:29:17:588 CONSOLA/(32187:32187): Se creo la estructura del config.
+[INFO] 00:29:17:593 CONSOLA/(32187:32187): Se cargo la lista de instrucciones.
+[INFO] 00:29:17:593 CONSOLA/(32187:32187): Se cargo la lista de segmentos.
+[INFO] 00:29:52:693 CONSOLA/(32244:32244): Se creo la estructura del config.
+[INFO] 00:29:52:693 CONSOLA/(32244:32244): Se cargo la lista de instrucciones.
+[INFO] 00:29:52:694 CONSOLA/(32244:32244): Se cargo la lista de segmentos.
+[INFO] 00:29:52:700 CONSOLA/(32244:32244): Se conecto con el modulo Kernel.
+[INFO] 00:32:11:502 CONSOLA/(32369:32369): Se creo la estructura del config.
+[INFO] 00:32:11:503 CONSOLA/(32369:32369): Se cargo la lista de instrucciones.
+[INFO] 00:32:11:503 CONSOLA/(32369:32369): Se cargo la lista de segmentos.
+[INFO] 00:32:11:505 CONSOLA/(32369:32369): Se conecto con el modulo Kernel.
+[INFO] 00:33:47:801 CONSOLA/(32460:32460): Se creo la estructura del config.
+[INFO] 00:33:47:802 CONSOLA/(32460:32460): Se cargo la lista de instrucciones.
+[INFO] 00:33:47:802 CONSOLA/(32460:32460): Se cargo la lista de segmentos.
+[INFO] 00:33:47:806 CONSOLA/(32460:32460): Se conecto con el modulo Kernel.
+[INFO] 00:34:45:307 CONSOLA/(32531:32531): Se creo la estructura del config.
+[INFO] 00:34:45:308 CONSOLA/(32531:32531): Se cargo la lista de instrucciones.
+[INFO] 00:34:45:312 CONSOLA/(32531:32531): Se cargo la lista de segmentos.
+[INFO] 00:34:45:313 CONSOLA/(32531:32531): Se conecto con el modulo Kernel.
+[INFO] 00:38:32:424 CONSOLA/(32734:32734): Se creo la estructura del config.
+[INFO] 00:38:32:425 CONSOLA/(32734:32734): Se cargo la lista de instrucciones.
+[INFO] 00:38:32:425 CONSOLA/(32734:32734): Se cargo la lista de segmentos.
+[INFO] 00:38:32:425 CONSOLA/(32734:32734): Se conecto con el modulo Kernel.
+[INFO] 00:38:46:391 CONSOLA/(307:307): Se creo la estructura del config.
+[INFO] 00:38:46:392 CONSOLA/(307:307): Se cargo la lista de instrucciones.
+[INFO] 00:38:46:392 CONSOLA/(307:307): Se cargo la lista de segmentos.
+[INFO] 00:38:46:396 CONSOLA/(307:307): Se conecto con el modulo Kernel.
+[INFO] 00:40:41:480 CONSOLA/(423:423): Se creo la estructura del config.
+[INFO] 00:40:41:480 CONSOLA/(423:423): Se cargo la lista de instrucciones.
+[INFO] 00:40:41:480 CONSOLA/(423:423): Se cargo la lista de segmentos.
+[INFO] 00:40:41:481 CONSOLA/(423:423): Se conecto con el modulo Kernel.
+[INFO] 00:40:58:371 CONSOLA/(467:467): Se creo la estructura del config.
+[INFO] 00:40:58:371 CONSOLA/(467:467): Se cargo la lista de instrucciones.
+[INFO] 00:40:58:372 CONSOLA/(467:467): Se cargo la lista de segmentos.
+[INFO] 00:41:50:160 CONSOLA/(532:532): Se creo la estructura del config.
+[INFO] 00:41:50:245 CONSOLA/(532:532): Se cargo la lista de instrucciones.
+[INFO] 00:41:50:261 CONSOLA/(532:532): Se cargo la lista de segmentos.
+[INFO] 00:44:20:753 CONSOLA/(683:683): Se creo la estructura del config.
+[INFO] 00:44:20:754 CONSOLA/(683:683): Se cargo la lista de instrucciones.
+[INFO] 00:44:20:755 CONSOLA/(683:683): Se cargo la lista de segmentos.
+[INFO] 00:45:00:753 CONSOLA/(740:740): Se creo la estructura del config.
+[INFO] 00:45:00:755 CONSOLA/(740:740): Se cargo la lista de instrucciones.
+[INFO] 00:45:00:755 CONSOLA/(740:740): Se cargo la lista de segmentos.
+[INFO] 00:45:13:184 CONSOLA/(774:774): Se creo la estructura del config.
+[INFO] 00:45:13:185 CONSOLA/(774:774): Se cargo la lista de instrucciones.
+[INFO] 00:45:13:185 CONSOLA/(774:774): Se cargo la lista de segmentos.
+[INFO] 00:47:41:679 CONSOLA/(912:912): Se creo la estructura del config.
+[INFO] 00:47:41:680 CONSOLA/(912:912): Se cargo la lista de instrucciones.
+[INFO] 00:47:41:684 CONSOLA/(912:912): Se cargo la lista de segmentos.
+[INFO] 00:50:20:031 CONSOLA/(1057:1057): Se creo la estructura del config.
+[INFO] 00:50:20:032 CONSOLA/(1057:1057): Se cargo la lista de instrucciones.
+[INFO] 00:50:20:033 CONSOLA/(1057:1057): Se cargo la lista de segmentos.
+[INFO] 00:52:44:990 CONSOLA/(1211:1211): Se creo la estructura del config.
+[INFO] 00:52:44:991 CONSOLA/(1211:1211): Se cargo la lista de instrucciones.
+[INFO] 00:52:44:996 CONSOLA/(1211:1211): Se cargo la lista de segmentos.
+[ERROR] 00:52:44:996 CONSOLA/(1211:1211): No se pudo conectar con el modulo Kernel.
